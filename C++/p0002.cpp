@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cmath>
 
+//iterative method
 int main(void) {
 	int f = 0;
 	int f1 = 0;
